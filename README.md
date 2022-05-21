@@ -39,6 +39,9 @@ Your web browser should automatically open to `<ip>:<port>:<path>` default: [htt
 
 ## Deploying
 
+### Deploying to AWS
+Refer to [AWS Hand-on: Build a Full-Stack React Application](https://aws.amazon.com/getting-started/hands-on/build-react-app-amplify-graphql/module-one/?e=gs2020&p=build-a-react-app-intro)
+
 ### Deploying to Github Pages
 
 1. Modify the environmental variables and git remote url in [`.github/workflows/github-pages.yml`](.github/workflows/github-pages.yml).
